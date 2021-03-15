@@ -1,7 +1,19 @@
 #### Print a string
 print('Hello world')  
-print('Spam and eggs)
+print("Spam and eggs")
 
-<hr>
+#### Escape (" \ ")
+print("Amanda\'s code")
 
-####
+#### New Lines ("\n")
+print('One \nTwo \nThree')  
+print("""this  
+prints  
+as  
+separate lines.""")
+
+#### Concatenation
+print("Spam" + ' eggs') // Spam eggs  
+print("2" + "2") // 22  
+
+#### String Operations
