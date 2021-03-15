@@ -17,3 +17,6 @@ print("Spam" + ' eggs') // Spam eggs
 print("2" + "2") // 22  
 
 #### String Operations
+print("Spam" * 3) // SpamSpamSpam  
+print(4 * '2') // 2222  
+
