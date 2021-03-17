@@ -31,3 +31,24 @@ while x < 10:
 7 is odd  
 8 is even  
 9 is odd  
+
+#### Break
+Ends a while loop before the while condition is met  
+
+i = 0  
+while 1==1:  
+&nbsp;&nbsp;&nbsp;&nbsp; print(i)  
+&nbsp;&nbsp;&nbsp;&nbsp; i = i + 1  
+&nbsp;&nbsp;&nbsp;&nbsp; if i >= 5:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; print("Breaking")  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; break  
+
+print("Finished")
+
+0  
+1  
+2  
+3  
+4  
+Breaking  
+Finished  
