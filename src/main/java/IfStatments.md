@@ -27,3 +27,19 @@ if x == 5:
 &nbsp;&nbsp;&nbsp;&nbsp; print("Yes")  
 else:  
 &nbsp;&nbsp;&nbsp;&nbsp; print("No")  
+<br>
+<hr>
+
+#### elif
+
+Short for "else if"  
+
+num = 3  
+if num == 1:  
+&nbsp;&nbsp;&nbsp;&nbsp;print("One")  
+elif num == 2:  
+&nbsp;&nbsp;&nbsp;&nbsp;print("Two")  
+elif num == 3:  
+&nbsp;&nbsp;&nbsp;&nbsp;print("Three")  
+else:  
+&nbsp;&nbsp;&nbsp;&nbsp;print("Something else")  
